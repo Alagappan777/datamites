@@ -2,3 +2,8 @@ a=10
 b=20
 pritn('add',a+b)
 abcd efg hijk lmnop qrst uvwxyz
+qwe
+134
+789
+0989
+dddd
